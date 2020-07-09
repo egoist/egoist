@@ -1,3 +1,5 @@
+<img src="./balloon.gif" width="50">
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Saber](https://github.com/saberland/saber) and [SAO](https://github.com/saojs/sao)
@@ -7,4 +9,3 @@
 - 📫 How to reach me: [@_egoistlily](https://twitter.com/_egoistlily)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [I watch anime](https://anilist.co/user/KevinTitor)
-
