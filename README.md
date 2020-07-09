@@ -5,5 +5,5 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [@_egoistlily](https://twitter.com/_egoistlily)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I watch anime
+- ⚡ Fun fact: [I watch anime](https://anilist.co/user/KevinTitor)
 
