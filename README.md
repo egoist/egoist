@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on [Saber](https://github.com/saberland/saber) and [SAO](https://github.com/saojs/sao)
 - 🌱 I’m currently learning Rust and Japanese
+- 🕵 __I'm looking for a remote job__
 - 💬 Ask me about anything
 - 💰 I need [sponsors](https://github.com/sponsors/egoist) to keep my projects maintained
 - 📫 How to reach me: [@_egoistlily](https://twitter.com/_egoistlily)
