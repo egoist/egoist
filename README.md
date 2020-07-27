@@ -8,7 +8,7 @@ If my code has helped you, please consider [sponsoring me](https://github.com/sp
 
 ## What I'm up to
 
-Currently I'm focusing on making a SSR framework for Vue 3, details coming soon. 
+Currently I'm focusing on making [Ream](https://github.com/ream/ream) production ready, it's a SSR framework for Vue 3. 
 
 ## Let's talk
 
