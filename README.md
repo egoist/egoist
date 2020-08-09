@@ -1,6 +1,8 @@
 <img src="https://github.com/egoist/egoist/raw/master/balloon.gif" width="50" alt="floating cat with ballon">
 
-**Hi there** 👋
+### Hi there 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for egoist">
 
 I'm a web developer based in China, a lot of my open source work is focusing on making web development easier, which is probably why you're here.
 
@@ -13,10 +15,6 @@ Currently I'm focusing on making [Ream](https://github.com/ream/ream) production
 ## Let's talk
 
 You can follow me on [Twitter](https://twitter.com/_egoistlily). DMs are open if want to talk 😊
-
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for egoist">
 
 ---
 
