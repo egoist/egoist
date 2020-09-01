@@ -16,7 +16,7 @@ Currently I'm focusing on making [Ream](https://github.com/ream/ream) production
 
 ## Let's talk
 
-You can follow me on [Twitter](https://twitter.com/_egoistlily). DMs are open if want to talk 😊
+You can follow me on [Twitter](https://twitter.com/_egoistlily) or join my [Discord](https://chat.egoist.sh) server, DMs are open if want to talk 😊
 
 ---
 
