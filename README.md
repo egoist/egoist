@@ -1,11 +1,5 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for egoist">
 
-
-# FOR HIRE! 🔥
-
-__I'm currently available for hire, if my timezone (UTC+8) works for you. I charge around $100 per hour, anything related to JavaScript, Vue or React will be considered, just shot me [an email](mailto:0x142857@gmai.com) if you're interested!__
-
-
 ### Hi there 👋
 
 
