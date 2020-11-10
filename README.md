@@ -5,7 +5,7 @@
 
 I'm a web developer based in China, a lot of my open source work is focusing on making web development easier, which is probably why you're here.
 
-If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/egoist). If you need more help than I can offer in issues, or you need help with private code, you can [contact me](mailto:0x142857@gmail.com) to discuss paid work ($20 ~ $80 per hour).
+If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/egoist). __If you need more help than I can offer in issues, or you need help with private code, you can [hire me](mailto:0x142857@gmail.com) for just $20 ~ $80 per hour.__
 
 
 ## What I'm up to
