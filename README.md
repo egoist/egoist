@@ -8,7 +8,7 @@ If my code has helped you, please consider [sponsoring me](https://github.com/sp
 
 ## Let's talk
 
-You can follow me on [Twitter](https://twitter.com/_egoistlily) or join my [Discord](https://chat.egoist.sh) server, DMs are open if want to talk 😊
+You can follow me on [Twitter](https://twitter.com/_egoistlily), DMs are open if want to talk 😊
 
 ## Sponsors
 
