@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "update-sponsors": "node -r sucrase/register update-sponsors.ts"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "enquirer": "^2.3.6",
+    "replace-section": "^1.0.0",
+    "sucrase": "^3.16.0"
+  },
+  "devDependencies": {
+    "@egoist/prettier-config": "^0.1.0",
+    "@types/node": "^14.14.10",
+    "prettier": "^2.2.1"
+  }
+}
