@@ -34,6 +34,10 @@ async function main() {
                       login
                       avatarUrl
                     }
+                    ... on Organization {
+                      login
+                      avatarUrl
+                    }
                   }
                 }
               }
@@ -46,7 +50,6 @@ async function main() {
       },
     },
   )
-
   const totalCount = data.data.viewer.sponsorshipsAsMaintainer.totalCount
   const sponsors = data.data.viewer.sponsorshipsAsMaintainer.nodes
     .map((node) => {
