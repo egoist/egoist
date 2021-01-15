@@ -83,7 +83,7 @@ async function main() {
       replaceWith: `<!-- replace-sponsors -->
 ${code}
 
-...and ${totalCount - sponsors.length} more
+...[and ${totalCount - sponsors.length} more](https://egoist.sh/thanks)
       <!-- replace-sponsors -->`,
     }),
     'utf-8',
