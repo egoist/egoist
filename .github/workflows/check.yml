@@ -20,6 +20,6 @@ jobs:
       - name: Update sponsors
         run: npm run update-sponsors
         env:
-          GITHUV_TOKEN: ${{ GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ SPONSOR_TOKEN }}
       - name: Commit changes
         run: bash ./commit.sh
