@@ -1,0 +1,23 @@
+name: Check
+
+# Controls when the action will run.
+on:
+  schedule:
+    - cron: '30 * * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  health_check_job:
+    runs-on: ubuntu-latest
+    name: Check
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: Update sponsors
+        run: npm run update-sponsors
+        env:
+          GITHUV_TOKEN: ${{ GITHUB_TOKEN }}

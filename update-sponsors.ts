@@ -3,11 +3,9 @@ import axios from 'axios'
 import enquirer from 'enquirer'
 import replaceSection from 'replace-section'
 
-const args = process.argv.slice(2)
-
 async function main() {
-  const { token } = args[0]
-    ? { token: args[0] }
+  const { token } = process.env.GITHUB_TOKEN
+    ? { token: process.env.GITHUB_TOKEN }
     : await enquirer.prompt<{ token: string }>([
         {
           type: 'input',
