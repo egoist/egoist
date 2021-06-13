@@ -3,7 +3,7 @@
     "update-sponsors": "node -r sucrase/register update-sponsors.ts"
   },
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "enquirer": "^2.3.6",
     "replace-section": "^1.0.0",
     "sucrase": "^3.16.0"
