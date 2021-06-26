@@ -1,6 +1,10 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for egoist">
 
-### Hi there 👋
+### 🌟 ANNOUNCEMENT 🌟
+
+I'm looking for a frontend job, I'm familiar with React, Vue, Svelte, Next.js, Nuxt.js, Type GraphQL, Prisma etc, my hourly rate is around $50. Please DM me on Twitter or shot me an email if you've got an interesting project for me to work on.
+
+---
 
 I'm a web developer based in China, a lot of my open source work is focusing on making web development easier, which is probably why you're here.
 
