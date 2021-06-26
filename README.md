@@ -2,7 +2,7 @@
 
 ### 🌟 ANNOUNCEMENT 🌟
 
-I'm looking for a frontend job, I'm familiar with React, Vue, Svelte, Next.js, Nuxt.js, Type GraphQL, Prisma etc, my hourly rate is around $50. Please DM me on Twitter or shot me an email if you've got an interesting project for me to work on.
+I'm looking for a frontend/fullstack job, I'm familiar with React, Vue, Svelte, Next.js, Nuxt.js, Type GraphQL, Prisma etc, my rate is around $50/hour, up to 40 hours/week. Please DM me on Twitter or shot me an email if you've got an interesting project for me to work on.
 
 ---
 
