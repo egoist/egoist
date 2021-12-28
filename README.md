@@ -5,7 +5,7 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://www.storyblok.com/developers?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship">
-          <img alt="Storyblok: Build projects faster with the most flexible headless CMS out there" src="https://user-images.githubusercontent.com/8784712/147583021-501f2736-9c4b-4a69-beca-68028ff5a6f6.png" />
+          <img alt="Storyblok: Build projects faster with the most flexible headless CMS out there" src="https://user-images.githubusercontent.com/8784712/147583766-135757ed-bb12-4a26-a899-c43a4be8fb08.png" />
         </a>
       </td>
       <td width="50%" align="center">
