@@ -1,7 +1,5 @@
 I'm looking for a remote job, I mostly took contract jobs in the recent years but I will consider all types of jobs. Hourly rate >= $50 USD.
 
-I'm also working on a RoamResearch alternative in my free time, it will feature a block editor, cross-platform sync, backlinks, e2e encryption, REST api and many features you love, let me know if you want to invest in this project.
-
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/egoist).** I'd like to thank these awesome companies for sponsoring me:
 
 <table>
