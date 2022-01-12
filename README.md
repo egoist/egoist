@@ -1,5 +1,3 @@
-I'm looking for a remote job, I mostly took contract jobs in the recent years but I will consider all types of jobs. Hourly rate >= $50 USD.
-
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/egoist).** I'd like to thank these awesome companies for sponsoring me:
 
 <table>
