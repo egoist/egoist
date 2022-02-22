@@ -1,18 +1,25 @@
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/egoist).** I'd like to thank these awesome companies for sponsoring me:
 
 <table>
-  <body>
+  <tbody>
     <tr>
+      <td width="50%" align="center">
+        <a href="https://oxylabs.io/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship">
+          <img alt="Oxylabs: Innovative Proxy Service to Gather Data at Scale" src="https://user-images.githubusercontent.com/8784712/155142247-17264699-1bc8-4b52-8236-8b9ef7b365e2.png" />
+        </a>
+      </td>
       <td width="50%" align="center">
         <a href="https://www.storyblok.com/developers?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship">
           <img alt="Storyblok: Build projects faster with the most flexible headless CMS out there" src="https://user-images.githubusercontent.com/8784712/147583766-135757ed-bb12-4a26-a899-c43a4be8fb08.png" />
         </a>
       </td>
-      <td width="50%" align="center">
+    </tr>
+    <tr>
+       <td width="50%" align="center">
         <a href="https://github.com/sponsors/egoist">Become a sponsor</a>
       </td>
     </tr>
-  </body>
+  </tbody>
 </table>
 
 
