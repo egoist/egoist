@@ -67,7 +67,7 @@ async function main() {
 
   const code = sponsors
     .map((sponsor) => {
-      return `<a title="${sponsor.username}" href="https://github.com/${sponsor.username}"><img src="${sponsor.avatar}" width="100" alt="profile picture of ${sponsor.username}"></a>`
+      return `<a title="${sponsor.username}" href="https://github.com/${sponsor.username}"><img src="${sponsor.avatar}" width="60" alt="profile picture of ${sponsor.username}"></a>`
     })
     .join(' ')
 
