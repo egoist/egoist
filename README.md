@@ -4,7 +4,7 @@
   <tbody>
     <tr>
       <td width="50%" align="center">
-        <a href="https://oxylabs.io/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship">
+        <a href="https://oxylabs.io?utm_source=egoist&utm_medium=cpc&utm_campaign=egoist_github_sponsor&adgroupid=20220222">
           <img alt="Oxylabs: Innovative Proxy Service to Gather Data at Scale" src="https://user-images.githubusercontent.com/8784712/155142247-17264699-1bc8-4b52-8236-8b9ef7b365e2.png" />
         </a>
       </td>
