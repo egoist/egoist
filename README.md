@@ -1,3 +1,5 @@
+<a href="https://linktr.ee/razomforukraine"><img src="https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/support-ukraine.png" alt="help ukraine"></a>
+
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/egoist).** I'd like to thank these awesome companies for sponsoring me:
 
 <table>
