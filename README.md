@@ -32,3 +32,5 @@ And these beautiful individuals for their support:
 <!-- pls deploy your own service using the repo above -->
 
 ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/egoist-github-readme)
+
+![coding stats](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/egoist/interval:30_days&label=coding%20stats%20last%2030d)
