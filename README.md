@@ -26,7 +26,7 @@ And these beautiful individuals for their support:
 
 ---
 
-<img src="https://spotify-badge-egoist.vercel.app/api/now-playing" width="540" height="52" alt="now playing">
+<a href="https://volt.fm/egoist" target="_blank"><img src="https://spotify-badge-egoist.vercel.app/api/now-playing" width="540" height="52" alt="now playing"></a>
 
 <!-- https://github.com/Gerhut/Gerhut -->
 <!-- pls deploy your own service using the repo above -->
