@@ -1,5 +1,3 @@
-<a href="https://linktr.ee/razomforukraine" target="_blank"><img src="https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/support-ukraine.png" alt="help ukraine"></a>
-
 **If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/egoist).** I'd like to thank these awesome companies for sponsoring me:
 
 <table>
@@ -27,6 +25,8 @@ And these beautiful individuals for their support:
       <!-- replace-sponsors -->
 
 ---
+
+<img src="https://spotify-badge-egoist.vercel.app/api/now-playing" width="540" height="52" alt="now playing">
 
 <!-- https://github.com/Gerhut/Gerhut -->
 <!-- pls deploy your own service using the repo above -->
