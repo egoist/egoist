@@ -2,26 +2,39 @@
 
 <table>
   <tbody>
-  <tr>
-   <td width="50%" align="center">
-        <a href="https://browserku.com/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship">
-          <img alt="Browserku: REST API for web scraping, screenshots, PDF generation and more" src="https://cdn.jsdelivr.net/gh/egoist-bot/images@main/upic/ETF2kP.png" />
-        </a>
-      </td>
-   <td width="50%" align="center">
-        <a href="https://www.storyblok.com/developers?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship">
-          <img alt="Storyblok: Build projects faster with the most flexible headless CMS out there" src="https://user-images.githubusercontent.com/8784712/147583766-135757ed-bb12-4a26-a899-c43a4be8fb08.png" />
-        </a>
-      </td>
-  </tr>
     <tr>
-     
+      <td width="50%" align="center">
+        <a
+          href="https://browserku.com/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
+        >
+          <img
+            alt="Browserku: REST API for web scraping, screenshots, PDF generation and more"
+            src="https://cdn.jsdelivr.net/gh/egoist-bot/images@main/upic/ETF2kP.png"
+          />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a
+          href="https://www.storyblok.com/developers?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
+        >
+          <img
+            alt="Storyblok: Build projects faster with the most flexible headless CMS out there"
+            src="https://user-images.githubusercontent.com/8784712/147583766-135757ed-bb12-4a26-a899-c43a4be8fb08.png"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/sponsors/egoist">Become a sponsor</a>
+      </td>
       <td width="50%" align="center">
         <a href="https://github.com/sponsors/egoist">Become a sponsor</a>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 And these beautiful individuals for their support:
