@@ -5,11 +5,11 @@
     <tr>
       <td width="50%" align="center">
         <a
-          href="https://browserku.com/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
+          href="https://www.chromatic.com/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
         >
           <img
-            alt="Browserku: REST API for web scraping, screenshots, PDF generation and more"
-            src="https://cdn.jsdelivr.net/gh/egoist-bot/images@main/upic/ETF2kP.png"
+            alt="Ship UIs faster with automated workflows for Storybook"
+            src="https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/Frame 3.png"
           />
         </a>
       </td>
