@@ -5,11 +5,11 @@
     <tr>
       <td width="50%" align="center">
         <a
-          href="https://www.chromatic.com/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
+          href="https://zolplay.com/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
         >
           <img
-            alt="Ship UIs faster with automated workflows for Storybook"
-            src="https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/Frame 3.png"
+            alt="Transforming lives through innovative technology"
+            src="https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/AM6naF.png"
           />
         </a>
       </td>
@@ -24,9 +24,29 @@
         </a>
       </td>
     </tr>
+        <tr>
+      <td width="50%" align="center">
+        Transforming lives through innovative technology
+      </td>
+      <td width="50%" align="center">
+       The most flexible headless CMS out there
+      </td>
+    </tr>
+       <tr>
+      <td width="50%" align="center">
+        <a
+          href="https://www.chromatic.com/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
+        >
+          <img
+            alt="Ship UIs faster with automated workflows for Storybook"
+            src="https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/Frame 3.png"
+          />
+        </a>
+      </td>
+    </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/sponsors/egoist">Become a sponsor</a>
+        Ship UIs faster with automated workflows for Storybook
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/sponsors/egoist">Become a sponsor</a>
