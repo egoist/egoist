@@ -8,7 +8,7 @@
           href="https://zolplay.com/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
         >
           <img
-            alt="Transforming lives through innovative technology"
+            alt="Crafting fun, engineering play"
             src="https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/AM6naF.png"
           />
         </a>
@@ -26,7 +26,7 @@
     </tr>
         <tr>
       <td width="50%" align="center">
-        Transforming lives through innovative technology
+        Crafting fun, engineering play
       </td>
       <td width="50%" align="center">
        The most flexible headless CMS out there
