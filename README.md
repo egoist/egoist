@@ -5,53 +5,28 @@
     <tr>
       <td width="50%" align="center">
         <a
-          href="https://zolplay.com/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
+          href="https://workleap.com/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
         >
           <img
-            alt="Crafting fun, engineering play"
-            src="https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/AM6naF.png"
+            alt="workleap"
+            src="https://cdn.jsdelivr.net/gh/egoist-bot/images@main/uPic/0cBcDp.png"
           />
         </a>
       </td>
       <td width="50%" align="center">
-        <a
-          href="https://www.storyblok.com/developers?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
-        >
-          <img
-            alt="Storyblok: Build projects faster with the most flexible headless CMS out there"
-            src="https://user-images.githubusercontent.com/8784712/147583766-135757ed-bb12-4a26-a899-c43a4be8fb08.png"
-          />
-        </a>
-      </td>
-    </tr>
-        <tr>
-      <td width="50%" align="center">
-        Crafting fun, engineering play
-      </td>
-      <td width="50%" align="center">
-       The most flexible headless CMS out there
-      </td>
-    </tr>
-       <tr>
-      <td width="50%" align="center">
-        <a
-          href="https://www.chromatic.com/?utm_source=egoist&utm_medium=github&utm_campaign=sponsorship"
-        >
-          <img
-            alt="Ship UIs faster with automated workflows for Storybook"
-            src="https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/Frame 3.png"
-          />
-        </a>
+      <span></span>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        Ship UIs faster with automated workflows for Storybook
+  <td width="50%" align="center">
+        Workleap
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/sponsors/egoist">Become a sponsor</a>
       </td>
     </tr>
+     
+   
   </tbody>
 </table>
 
